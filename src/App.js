@@ -7,6 +7,7 @@ import Copyright from './components/common/Copyright'
 import Box from '@material-ui/core/Box';
 
 
+
 import image from './images/image.png';
 
 class App extends React.Component {

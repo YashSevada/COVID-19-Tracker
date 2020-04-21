@@ -2,6 +2,9 @@
 
 COVID-19 Tracker
 
+
+
+![](src/images/image.png)
 ## Tools
 create-react-app cli
 React MDL material design
